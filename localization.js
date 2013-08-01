@@ -133,7 +133,7 @@ angular.module('localization', [])
 		{
 			return function (input)
 			{
-				return localize.getLocalizedString(input);
+				return localize.getLocalizedString(arguments);
 			};
 		}
 	]
