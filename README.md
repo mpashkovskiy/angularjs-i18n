@@ -13,7 +13,8 @@ Use it like this in your template (i18n is the filter)
 	
 Define your language JSON files in your approot/i18n/, named as the language you are targeting, ie
 ```
-approot/i18n/en-US.json
+approot/i18n/ru.json
+approot/i18n/default.json
 ```
 The en-US.json file looks like this
 ```
